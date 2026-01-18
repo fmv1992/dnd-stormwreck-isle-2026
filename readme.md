@@ -2,10 +2,26 @@
 
 ## Materiais
 
-*   [Fichas pré-montadas](dnd_stormwreck_isle_2026/documentos/documentos_oficiais_dnd/dnd_starterset_characters.pdf)
+*   [Fichas pré-montadas](dnd_stormwreck_isle_2026/documentos/documentos_oficiais_dnd/dnd_starterset_characters.pdf).
+
+*   [Introdução à aventura (versão 01)](./dnd_stormwreck_isle_2026/documentos/documentos_da_mesa/introducao.pdf.ebook_quality.pdf).
+
+    *   ![Status](https://img.shields.io/badge/Status-TODO-yellow): colocar mais um parágrafo sobre `?R?`.
+
+*   Regras da mesa: ![Status](https://img.shields.io/badge/Status-TODO-yellow).
+
+*   Sessão zero: ![Status](https://img.shields.io/badge/Status-TODO-yellow).
+
+*   Sessão zero: ![Status](https://img.shields.io/badge/Status-TODO-yellow).
 
 ## Links
 
 *   "Enciclopédia de regras": [5etools](https://5e.tools/).
 
     *   Lembrem-se de filtrar por `PHB'24` (Livro do Jogador edição de 2024).
+
+*   Youtube:
+
+    *   ![Status](https://img.shields.io/badge/Status-TODO-yellow).
+
+<!-- ![Status](https://img.shields.io/badge/Status-TODO-yellow) -->
