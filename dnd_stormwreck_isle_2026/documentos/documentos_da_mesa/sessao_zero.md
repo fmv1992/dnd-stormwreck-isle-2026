@@ -1,5 +1,8 @@
 # Sessão zero
 
+<! -- test edition -->
+(comentário x)
+
 ### 1. Logística e Agenda (O "Contrato Social")
 
 * **Definir Dia e Hora Fixos:** Evite "vamos ver que dia dá". Escolha um dia recorrente.
