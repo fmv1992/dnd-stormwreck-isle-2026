@@ -29,12 +29,13 @@
 *   A princípio pode todos os temas. Sexo de forma indireta e não narrativa/detalhes é ok também. Flerte etc é uma ferramenta in-game (e na vida! `#polêmica`).
 
 ### 3. Regras da Mesa (O Sistema)
-
+evaldo -> acho interessante discutir as regras oficiais também, como serão aplicadas (movimento, visibilidade, cobertura, componentes de magia, comida/bebida, perícias, volume/peso e armazenamento dos equipamentos etc.)
 *   **Apresentar Regras da Casa (Homebrew):** Liste mudanças nas regras oficiais.
     *   Regras não oficiais que vamos usar:
         *   Flanqueamento.
     *   Regras não oficiais a discutir:
         *   Safe haven?
+        *   evaldo -> poção, críticos, lesões, xp/level
 
 * **Nível de Otimização (Power Gaming):** Decida o nível de poder dos personagens.
 * *Cenário:* Um jogador faz um combo matemático para dar 100 de dano no turno 1 (Min-Max), enquanto outro faz um Bardo que usa uma frigideira porque é engraçado. Isso gera desequilíbrio.
