@@ -53,7 +53,7 @@
 
 ### 3. Regras da Mesa (O Sistema)
 
-    *   `evaldo`: acho interessante discutir as regras oficiais também, como serão aplicadas (movimento, visibilidade, cobertura, componentes de magia, comida/bebida, perícias, volume/peso e armazenamento dos equipamentos etc.)
+*   `evaldo`: acho interessante discutir as regras oficiais também, como serão aplicadas (movimento, visibilidade, cobertura, componentes de magia, comida/bebida, perícias, volume/peso e armazenamento dos equipamentos etc.)
 
 *   **Apresentar Regras da Casa (Homebrew):** Liste mudanças nas regras oficiais.
     *   Regras não oficiais que vamos usar:
