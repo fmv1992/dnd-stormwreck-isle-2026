@@ -14,8 +14,16 @@
 
 ### 2. Alinhamento de Expectativas (O Estilo de Jogo)
 
-* **Descobrir Preferências de Pilares:** Pergunte o que os jogadores mais gostam (Combate, Exploração ou Social).
-* *Cenário:* Um jogador quer "matar um Deus" (foco em combate épico) enquanto outro quer "construir um castelo e gerenciar o reino" (foco em simulação/social).
+*   **Descobrir Preferências de Pilares:** Pergunte o que os jogadores mais gostam (Combate, Exploração ou Social).
+*   *Cenário:* Um jogador quer "matar um Deus" (foco em combate épico) enquanto outro quer "construir um castelo e gerenciar o reino" (foco em simulação/social).
+    *   Evaldo: exploração.
+    *   Lucas: exploração e combate.
+    *   Bruno: worldbuilding.
+    *   Gui: exploração, jogou 2 campanhas.
+
+*   Roleplay e combate:
+
+<!-- Gui: exploração, jogou 2 campanhas. -->
 
 <!--
 * **Definir o Tom e Tema:** Apresente a premissa da campanha.
@@ -24,6 +32,8 @@
 
 *   **Estabelecer Limites (Linhas e Véus):** Discuta gore, violência, romance e temas sensíveis.
 *   A princípio pode todos os temas. Sexo de forma indireta e não narrativa/detalhes é ok também. Flerte etc é uma ferramenta in-game (e na vida! `#polêmica`).
+    *   Sem violência sexual.
+    *   Flerte e indicacoes leves ok.
 
 *   Ferramenta de feedback anônimo:
 
@@ -53,26 +63,35 @@
 
 ### 3. Regras da Mesa (O Sistema)
 
-    *   `evaldo`: acho interessante discutir as regras oficiais também, como serão aplicadas (movimento, visibilidade, cobertura, componentes de magia, comida/bebida, perícias, volume/peso e armazenamento dos equipamentos etc.)
+*   `evaldo`: acho interessante discutir as regras oficiais também, como serão aplicadas (movimento, visibilidade, cobertura, componentes de magia, comida/bebida, perícias, volume/peso e armazenamento dos equipamentos etc.)
+
+    *   ̶N̶̶̶i̶̶̶n̶̶̶g̶̶̶u̶̶̶é̶̶̶m̶̶ ̶s̶̶̶a̶̶̶b̶̶̶e̶̶ ̶q̶̶̶u̶̶̶a̶̶̶n̶̶̶d̶̶̶o̶̶ ̶d̶̶̶e̶̶ ̶v̶̶̶i̶̶̶d̶̶̶a̶̶ ̶c̶̶̶a̶̶̶d̶̶̶a̶̶ ̶u̶̶̶m̶̶ ̶t̶̶̶e̶̶̶m̶̶̶.̶̶
+
+    *   Estou com 5 de vida.
+
+    *   Lucas: gosta da parte gamificada do combate.
+
+    *   Quantidade de vida nos tokens.
 
 *   **Apresentar Regras da Casa (Homebrew):** Liste mudanças nas regras oficiais.
     *   Regras não oficiais que vamos usar:
-        *   Flanqueamento.
+        *   Flanqueamento → (2014, livro oficial).
     *   Regras não oficiais a discutir:
-        *   Safe haven?
-
-        *   `evaldo` -> poção, críticos, lesões, xp/level
+        *   ̶S̶̶̶a̶̶̶f̶̶̶e̶̶ ̶h̶̶̶a̶̶̶v̶̶̶e̶̶̶n̶̶̶?̶̶ → sem safe haven.
+        *   `evaldo` → poção (in dubio pro jogador; pegar dado máximo caso seja ação cheia), críticos (duplica os dados), lesões, ̶x̶̶̶p̶̶̶/̶̶̶l̶̶̶e̶̶̶v̶̶̶e̶̶̶l̶̶
 
 * **Nível de Otimização (Power Gaming):** Decida o nível de poder dos personagens.
 * *Cenário:* Um jogador faz um combo matemático para dar 100 de dano no turno 1 (Min-Max), enquanto outro faz um Bardo que usa uma frigideira porque é engraçado. Isso gera desequilíbrio.
 
+    *   Sem sugestões durante o combate.
+
 *   **Etiqueta na Mesa:** Uso de celulares, empilhar dados, respeito mútuo.
     *   Câmera aberta como regra; não é necessário justificar exceções/"dias ruins" (internet, chuva, bagunça, etc).
     *   Celular ou outras coisas: evitar. Se houver questões de trabalho (frequentemente haviam pra mim) é melhor avisar (e.g. "se vocês me verem checando o celular é por causa do trabalho").
+
 <!--
 * *Cenário:* "Sem celulares durante o combate, exceto para checar magias."
 -->
-
 
 ### 4. Criação de Personagens e Grupo (A Coesão)
 
@@ -92,5 +111,23 @@
 1.  https://www.youtube.com/watch?v=LzYWn8lzNrw
 
 1.  https://www.youtube.com/watch?v=2MA-z5Ai-bQ
+
+* * *
+* * *
+* * *
+
+*   Se interessar pelos personagens.
+
+*   Não rolar testes como jogador (é prerrogativa do mestre).
+
+*   Combate: não ter conversas (side).
+
+*   Role play.
+
+*   Premiar o role play: role play.
+
+*   2h estrito com horário.
+
+*   Token stamp: evaldo
 
 <!-- vim: set filetype=markdown fileformat=unix nowrap spell spelllang=en,cdenglish01:  -->
