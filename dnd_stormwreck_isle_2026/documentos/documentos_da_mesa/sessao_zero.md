@@ -45,6 +45,12 @@
 
         4.  Mestre: ver 2x na semana, uma delas um dia antes da sessão (caso caia na caixa de spam).
 
+        <!-- ???: amostra de feedback  -->
+
+*   Temas sensíveis?
+
+    *   <https://publish-01.obsidian.md/access/e09f481b9801401015af0d134c7b3d96/Adventuring%20Chaos/Files/Handouts/MCDM%20Tabletop%20Safety%20Checklist.pdf>.
+
 ### 3. Regras da Mesa (O Sistema)
 
     *   `evaldo`: acho interessante discutir as regras oficiais também, como serão aplicadas (movimento, visibilidade, cobertura, componentes de magia, comida/bebida, perícias, volume/peso e armazenamento dos equipamentos etc.)
@@ -83,6 +89,8 @@
 
 ## 5. Outros materiais
 
-1.  
+1.  https://www.youtube.com/watch?v=LzYWn8lzNrw
+
+1.  https://www.youtube.com/watch?v=2MA-z5Ai-bQ
 
 <!-- vim: set filetype=markdown fileformat=unix nowrap spell spelllang=en,cdenglish01:  -->
