@@ -1,8 +1,5 @@
 # Sessão zero
 
-<! -- test edition -->
-(comentário x)
-
 ### 1. Logística e Agenda (O "Contrato Social")
 
 * **Definir Dia e Hora Fixos:** Evite "vamos ver que dia dá". Escolha um dia recorrente.
@@ -28,6 +25,26 @@
 *   **Estabelecer Limites (Linhas e Véus):** Discuta gore, violência, romance e temas sensíveis.
 *   A princípio pode todos os temas. Sexo de forma indireta e não narrativa/detalhes é ok também. Flerte etc é uma ferramenta in-game (e na vida! `#polêmica`).
 
+*   Ferramenta de feedback anônimo:
+
+    *   Feedback simples: na hora ou no final da sessão.
+
+    *   O feedback pode ser positivo também `:)`.
+
+        *   Feedbacks funcionam como "eu gostaria de ver mais disto".
+
+    *   Sem feedback fica difícil saber o que foi bom e o que foi ruim → pode virar um ciclo vicioso.
+
+    *   Passo a passo:
+
+        1.  <https://www.guerrillamail.com/pt/>.
+
+        2.  Email do mestre: (ver discord).
+
+        3.  Assunto: `Dragons of Stormwreck Isle - 2026-01: ???` (preencher o `???`).
+
+        4.  Mestre: ver 2x na semana, uma delas um dia antes da sessão (caso caia na caixa de spam).
+
 ### 3. Regras da Mesa (O Sistema)
 
     *   `evaldo`: acho interessante discutir as regras oficiais também, como serão aplicadas (movimento, visibilidade, cobertura, componentes de magia, comida/bebida, perícias, volume/peso e armazenamento dos equipamentos etc.)
@@ -37,6 +54,7 @@
         *   Flanqueamento.
     *   Regras não oficiais a discutir:
         *   Safe haven?
+
         *   `evaldo` -> poção, críticos, lesões, xp/level
 
 * **Nível de Otimização (Power Gaming):** Decida o nível de poder dos personagens.
@@ -62,5 +80,9 @@
 * **Backups:** Pedir que jogadores tenham mais de uma ideia de personagem caso a primeira não encaixe no grupo.
 * *Cenário:* Se todos aparecerem com Ladinos, peça para alguém trocar para Clérigo ou Guerreiro para equilibrar o grupo.
 -->
+
+## 5. Outros materiais
+
+1.  
 
 <!-- vim: set filetype=markdown fileformat=unix nowrap spell spelllang=en,cdenglish01:  -->
