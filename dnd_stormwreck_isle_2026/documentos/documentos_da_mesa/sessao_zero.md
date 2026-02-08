@@ -64,6 +64,7 @@
 ### 3. Regras da Mesa (O Sistema)
 
 *   `evaldo`: acho interessante discutir as regras oficiais também, como serão aplicadas (movimento, visibilidade, cobertura, componentes de magia, comida/bebida, perícias, volume/peso e armazenamento dos equipamentos etc.)
+<<<<<<< HEAD
 
     *   ̶N̶̶̶i̶̶̶n̶̶̶g̶̶̶u̶̶̶é̶̶̶m̶̶ ̶s̶̶̶a̶̶̶b̶̶̶e̶̶ ̶q̶̶̶u̶̶̶a̶̶̶n̶̶̶d̶̶̶o̶̶ ̶d̶̶̶e̶̶ ̶v̶̶̶i̶̶̶d̶̶̶a̶̶ ̶c̶̶̶a̶̶̶d̶̶̶a̶̶ ̶u̶̶̶m̶̶ ̶t̶̶̶e̶̶̶m̶̶̶.̶̶
 
@@ -72,6 +73,8 @@
     *   Lucas: gosta da parte gamificada do combate.
 
     *   Quantidade de vida nos tokens.
+=======
+>>>>>>> 5f7e1d13c28ae0f7ec259a922464f4f7a5e0adee
 
 *   **Apresentar Regras da Casa (Homebrew):** Liste mudanças nas regras oficiais.
     *   Regras não oficiais que vamos usar:
