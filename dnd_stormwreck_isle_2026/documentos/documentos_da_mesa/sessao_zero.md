@@ -178,7 +178,7 @@
 * *Cenário:* Se todos aparecerem com Ladinos, peça para alguém trocar para Clérigo ou Guerreiro para equilibrar o grupo.
 -->
 
-<!--
+<!--  
 
 ## Resumo das Decisões da Sessão Zero
 
