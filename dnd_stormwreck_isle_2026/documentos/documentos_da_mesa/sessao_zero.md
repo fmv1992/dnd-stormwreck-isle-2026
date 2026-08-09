@@ -163,7 +163,7 @@
 
 *   Ordem dos jogadores: no geral o mestre pergunta constantemente a ordem dos jogadores em diversas situações. Esse hábito é necessário pela mecânica do jogo, está inclusive no [livro do [jogador](https://5e.tools/book.html#xphb,-1,marching%20order,0):
 
-    > The adventurers should establish a marching order while they travel, whether indoors or outdoors. 
+    > The adventurers should establish a marching order while they travel, whether indoors or outdoors.
 
     Entretanto acho muito "videogame" e pouco role-playing. Então vou assumir o seguinte:
 
@@ -178,7 +178,7 @@
 * *Cenário:* Se todos aparecerem com Ladinos, peça para alguém trocar para Clérigo ou Guerreiro para equilibrar o grupo.
 -->
 
-<!--  
+<!--
 
 ## Resumo das Decisões da Sessão Zero
 
