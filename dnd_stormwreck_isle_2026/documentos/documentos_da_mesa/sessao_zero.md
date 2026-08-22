@@ -159,26 +159,12 @@
     * **Objetivo:** Jogar no domingo seguinte se todos terminarem.
     * Tutorial de criação foi feito na sessão zero.
 
-### 5. Decisões pós-sessão zero
-
-*   Ordem dos jogadores: no geral o mestre pergunta constantemente a ordem dos jogadores em diversas situações. Esse hábito é necessário pela mecânica do jogo, está inclusive no [livro do [jogador](https://5e.tools/book.html#xphb,-1,marching%20order,0):
-
-    > The adventurers should establish a marching order while they travel, whether indoors or outdoors.
-
-    Entretanto acho muito "videogame" e pouco role-playing. Então vou assumir o seguinte:
-
-    1.  Os jogadores devem ser explícitos.
-
-    1.  "Bom senso"/"senso comum" em situações óbvias.
-
-    1.  Na falta de algo implícito, a ordem dos tokens ou "o que faz mais sentido do ponto de vista do RP".
-
 <!--
 * **Backups:** Pedir que jogadores tenham mais de uma ideia de personagem caso a primeira não encaixe no grupo.
 * *Cenário:* Se todos aparecerem com Ladinos, peça para alguém trocar para Clérigo ou Guerreiro para equilibrar o grupo.
 -->
 
-<!--
+<!--  
 
 ## Resumo das Decisões da Sessão Zero
 
